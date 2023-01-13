@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Practice_1_1_3 {
     public static void main(String[] args) {
-        int[] A = {100000, 99000, 99000, 98000, 97000};
+        int[] A = {15000, 16000, 10000, 30000, 14000};
 
         int buyIndex = 0;
         int sellIndex = 0;
